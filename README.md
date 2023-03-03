@@ -6,6 +6,7 @@ Este é um pequeno script Node.js que recebe uma lista de propriedades de CSS do
 
 ### <em>Como usar?</em>
 1 - Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+------------------------
 2 - Clone este repositório em sua máquina local usando git clone.
 3 - Navegue até a pasta do projeto e instale as dependências usando npm install.
 4 - Execute o script usando node index.js.
