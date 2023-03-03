@@ -18,12 +18,18 @@ Este é um pequeno script Node.js que recebe uma lista de propriedades de CSS do
 6 - As propriedades serão impressas no console em ordem alfabética.
 
 
+
+
 ### <em>Dependências</em>
 readline-sync: uma biblioteca para leitura síncrona de entrada do usuário no terminal.
 
 
+
+
 ### <em>Contribuindo</em>
 Sinta-se à vontade para contribuir com sugestões, melhorias e correções de bugs para este projeto. Basta abrir uma issue ou um pull request!
+
+
 
 
 ### <em>Licença</em>
